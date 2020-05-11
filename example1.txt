@@ -1,0 +1,1 @@
+fn main() { let c = 5 ; read_line ( a ) ; println! ( a ) ; println! ( c ) ; let x ; while x == true { let z ; z = 10 ; } let q ; if q != true { q = 3 ; } }
